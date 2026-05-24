@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "custompretty") (type "KiCad") (uri "/home/user/hardware_projects/symbols_and_stuff/custom symbols/custompretty.pretty") (options "") (descr ""))
+	(lib (name "custom") (type "KiCad") (uri "/home/user/hardware_projects/symbols_and_stuff/custom symbols/custom.pretty") (options "") (descr ""))
+)
