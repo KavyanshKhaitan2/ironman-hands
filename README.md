@@ -122,21 +122,768 @@ Quickly jump to different parts of the README using this section!
 [Jump to Contents](#contents)
 
 ### Mainboard
-<img width="1202" height="501" alt="image" src="https://github.com/user-attachments/assets/9e15a0f4-d490-451b-a312-e39e5737ef25" />
+<table cellspacing="0" cellpadding="0">
+    <tr>
+        <th>
+            <div>2</div>
+        </th>
+        <td>PCB</td>
+        <td>0.4000</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>-</td>
+        <td>5</td>
+        <td>1</td>
+        <td>2.00</td>
+        <td>USD</td>
+        <td>₹191.36</td>
+        <td>$2.00</td>
+    </tr>
+    <tr>
+        <th>
+            <div>3</div>
+        </th>
+        <td>Header pins (90deg)</td>
+        <td>0.2000</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a href="https://quartzcomponents.com/collections/all/products/male-90-degree-pin-header-connector"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>40</td>
+        <td>34</td>
+        <td>8.00</td>
+        <td>INR</td>
+        <td>₹199.36</td>
+        <td>$2.08</td>
+    </tr>
+    <tr>
+        <th>
+            <div>4</div>
+        </th>
+        <td>TYPE-C-31-M-12</td>
+        <td>0.1719</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C165948.html">LCSC</a>
+        </td>
+        <td>5</td>
+        <td>1</td>
+        <td>0.86</td>
+        <td>USD</td>
+        <td>₹281.60</td>
+        <td>$2.94</td>
+    </tr>
+    <tr>
+        <th>
+            <div>5</div>
+        </th>
+        <td>LM1117MP-3.3/TR</td>
+        <td>0.0931</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C498153.html">LCSC</a>
+        </td>
+        <td>5</td>
+        <td>1</td>
+        <td>0.47</td>
+        <td>USD</td>
+        <td>₹326.14</td>
+        <td>$3.41</td>
+    </tr>
+    <tr>
+        <th>
+            <div>6</div>
+        </th>
+        <td>SS56 Diode</td>
+        <td>0.0471</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C65009.html">LCSC</a>
+        </td>
+        <td>10</td>
+        <td>1</td>
+        <td>0.47</td>
+        <td>USD</td>
+        <td>₹371.21</td>
+        <td>$3.88</td>
+    </tr>
+    <tr>
+        <th>
+            <div>7</div>
+        </th>
+        <td>ESP32-S3-WROOM-1</td>
+        <td>371.0000</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a href="https://www.etstore.in/products/a2724">ETStore</a>
+        </td>
+        <td>1</td>
+        <td>1</td>
+        <td>371.00</td>
+        <td>INR</td>
+        <td>₹742.21</td>
+        <td>$7.76</td>
+    </tr>
+    <tr>
+        <th>
+            <div>8</div>
+        </th>
+        <td>LSM6DS3TR-C</td>
+        <td>1.5474</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C967633.html">LCSC</a>
+        </td>
+        <td>1</td>
+        <td>1</td>
+        <td>1.55</td>
+        <td>USD</td>
+        <td>₹890.27</td>
+        <td>$9.30</td>
+    </tr>
+    <tr>
+        <th>
+            <div>9</div>
+        </th>
+        <td>TCA9548APWR</td>
+        <td>0.6418</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C130026.html">LCSC</a>
+        </td>
+        <td>1</td>
+        <td>1</td>
+        <td>0.64</td>
+        <td>USD</td>
+        <td>₹951.68</td>
+        <td>$9.95</td>
+    </tr>
+    <tr>
+        <th>
+            <div>10</div>
+        </th>
+        <td>SK6812MINI-E</td>
+        <td>0.0870</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C5149201.html">LCSC</a>
+        </td>
+        <td>5</td>
+        <td>6</td>
+        <td>0.87</td>
+        <td>USD</td>
+        <td>₹1,034.92</td>
+        <td>$10.82</td>
+    </tr>
+    <tr>
+        <th>
+            <div>11</div>
+        </th>
+        <td>10k 1206 resistor</td>
+        <td>0.4500</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a
+                href="https://quartzcomponents.com/collections/all/products/yageo-510k-ohm-1206-package-1-4w-smd-resistor-1-tolerance-pack-of-20-pieces"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>20</td>
+        <td>2</td>
+        <td>9.00</td>
+        <td>INR</td>
+        <td>₹1,043.92</td>
+        <td>$10.91</td>
+    </tr>
+    <tr>
+        <th>
+            <div>12</div>
+        </th>
+        <td>100nF 0805 capacitor</td>
+        <td>1.5000</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a
+                href="https://quartzcomponents.com/collections/all/products/100nf-0-1uf-104-50v-1206-smd-capacitor-pack-of-10-pieces"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>10</td>
+        <td>2</td>
+        <td>15.00</td>
+        <td>INR</td>
+        <td>₹1,058.92</td>
+        <td>$11.07</td>
+    </tr>
+</table>
 
 [Jump to Contents](#contents)
 
 ### Per-finger module
-<img width="1287" height="313" alt="image" src="https://github.com/user-attachments/assets/f28c3ea2-e32a-4100-afb9-b34df1da42da" />
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td>Item Name</td>
+            <td>
+                <div>Unit Price</div>
+            </td>
+            <td>
+                <div>Cur.</div>
+            </td>
+            <td>Link</td>
+            <td>
+                <div>Min Qty.</div>
+            </td>
+            <td>
+                <div>Qty.</div>
+            </td>
+            <td>
+                <div>Amount</div>
+            </td>
+            <td>Co1</td>
+            <td>
+                <div>1.. Run. Total</div>
+            </td>
+            <td>
+                <div>2.. Run. Total</div>
+            </td>
+        </tr>
+        <tr>
+            <td>PCB</td>
+            <td>0.4000</td>
+            <td>
+                <span>USD</span>
+            </td>
+            <td>-</td>
+            <td>5</td>
+            <td>4</td>
+            <td>2.00</td>
+            <td>USD</td>
+            <td>₹191.36</td>
+            <td>$2.00</td>
+        </tr>
+        <tr>
+            <td>Header pins (90deg)</td>
+            <td>0.2000</td>
+            <td>
+                <span>INR</span>
+            </td>
+            <td>
+                <a href="https://quartzcomponents.com/collections/all/products/male-90-degree-pin-header-connector"
+                    >QuartzComponents</a
+                >
+            </td>
+            <td>40</td>
+            <td>18</td>
+            <td>8.00</td>
+            <td>INR</td>
+            <td>₹199.36</td>
+            <td>$2.08</td>
+        </tr>
+        <tr>
+            <td>LSM6DS3TR-C</td>
+            <td>1.5474</td>
+            <td>
+                <span>USD</span>
+            </td>
+            <td>
+                <a href="https://www.lcsc.com/product-detail/C967633.html">LCSC</a>
+            </td>
+            <td>1</td>
+            <td>2</td>
+            <td>3.09</td>
+            <td>USD</td>
+            <td>₹495.48</td>
+            <td>$5.18</td>
+        </tr>
+        <tr>
+            <td>10k 1206 resistor</td>
+            <td>0.4500</td>
+            <td>
+                <span>INR</span>
+            </td>
+            <td>
+                <a
+                    href="https://quartzcomponents.com/collections/all/products/yageo-510k-ohm-1206-package-1-4w-smd-resistor-1-tolerance-pack-of-20-pieces"
+                    >QuartzComponents</a
+                >
+            </td>
+            <td>40</td>
+            <td>4</td>
+            <td>18.00</td>
+            <td>INR</td>
+            <td>₹513.48</td>
+            <td>$5.37</td>
+        </tr>
+        <tr>
+            <td>100nF 0805 capacitor</td>
+            <td>1.5000</td>
+            <td>
+                <span>INR</span>
+            </td>
+            <td>
+                <a
+                    href="https://quartzcomponents.com/collections/all/products/100nf-0-1uf-104-50v-1206-smd-capacitor-pack-of-10-pieces"
+                    >QuartzComponents</a
+                >
+            </td>
+            <td>30</td>
+            <td>4</td>
+            <td>45.00</td>
+            <td>INR</td>
+            <td>₹558.48</td>
+            <td>$5.84</td>
+        </tr>
+        <tr>
+            <td>SK6812MINI-E</td>
+            <td>0.0870</td>
+            <td>
+                <span>USD</span>
+            </td>
+            <td>
+                <a href="https://www.lcsc.com/product-detail/C5149201.html">LCSC</a>
+            </td>
+            <td>5</td>
+            <td>2</td>
+            <td>0.44</td>
+            <td>USD</td>
+            <td>₹600.10</td>
+            <td>$6.27</td>
+        </tr>
+    </tbody>
+</table>
 
 [Jump to Contents](#contents)
 
 ### Power
-<img width="963" height="666" alt="image" src="https://github.com/user-attachments/assets/c58fe65c-3608-4dee-9851-219a7dbcacfd" />
+
+<table cellspacing="0" cellpadding="0">
+    <tr>
+        <td>Item Name</td>
+        <td>Unit Price</td>
+        <td>Cur.</td>
+        <td>Link</td>
+        <td>Min Qty.</td>
+        <td>Qty.</td>
+        <td>Amount</td>
+        <td>Co1</td>
+        <td>1.. Run. Total</td>
+        <td>2.. Run. Total</td>
+    </tr>
+    <tr>
+        <td>PCB</td>
+        <td>1.4000</td>
+        <td>USD</td>
+        <td>-</td>
+        <td>5</td>
+        <td>1</td>
+        <td>7.00</td>
+        <td>USD</td>
+        <td>₹669.78</td>
+        <td>$7.00</td>
+    </tr>
+    <tr>
+        <td>Header pins (90deg)</td>
+        <td>0.2000</td>
+        <td>INR</td>
+        <td>
+            <a href="https://quartzcomponents.com/collections/all/products/male-90-degree-pin-header-connector"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>40</td>
+        <td>16</td>
+        <td>8.00</td>
+        <td>INR</td>
+        <td>₹8.00</td>
+        <td>$0.08</td>
+    </tr>
+    <tr>
+        <td>DC Barrel Jack</td>
+        <td>6.0000</td>
+        <td>INR</td>
+        <td>
+            <a href="https://quartzcomponents.com/products/female-dc-power-supply-connector-barrel-dc-jack"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>1</td>
+        <td>1</td>
+        <td>6.00</td>
+        <td>INR</td>
+        <td>₹14.00</td>
+        <td>$0.15</td>
+    </tr>
+    <tr>
+        <td>DC Power Adapter</td>
+        <td>132.0000</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a href="https://quartzcomponents.com/products/12v-1a-dc-power-adapter">QuartzComponents</a>
+        </td>
+        <td>1</td>
+        <td>1</td>
+        <td>132.00</td>
+        <td>INR</td>
+        <td>₹146.00</td>
+        <td>$1.53</td>
+    </tr>
+    <tr>
+        <td>SPST Power Switch</td>
+        <td>6.0000</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a href="https://www.etstore.in/products/b8017">ETStore</a>
+        </td>
+        <td>2</td>
+        <td>1</td>
+        <td>12.00</td>
+        <td>INR</td>
+        <td>₹158.00</td>
+        <td>$1.65</td>
+    </tr>
+    <tr>
+        <td>TP5100 module</td>
+        <td>57.0000</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a
+                href="https://quartzcomponents.com/collections/all/products/tp5100-4-2v-8-4v-li-ion-battery-charging-module"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>1</td>
+        <td>1</td>
+        <td>57.00</td>
+        <td>INR</td>
+        <td>₹215.00</td>
+        <td>$2.25</td>
+    </tr>
+    <tr>
+        <td>TPS54302DDCR</td>
+        <td>0.3140</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C311983.html">LCSC</a>
+        </td>
+        <td>5</td>
+        <td>2</td>
+        <td>1.57</td>
+        <td>USD</td>
+        <td>₹365.22</td>
+        <td>$3.82</td>
+    </tr>
+    <tr>
+        <td>22uF|3.55mOhm Cap</td>
+        <td>0.0904</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C5677683.html">LCSC</a>
+        </td>
+        <td>5</td>
+        <td>1</td>
+        <td>0.45</td>
+        <td>USD</td>
+        <td>₹408.47</td>
+        <td>$4.27</td>
+    </tr>
+    <tr>
+        <td>100nF|280mOhm Cap</td>
+        <td>0.0067</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C519980.html">LCSC</a>
+        </td>
+        <td>100</td>
+        <td>2</td>
+        <td>0.67</td>
+        <td>USD</td>
+        <td>₹472.58</td>
+        <td>$4.94</td>
+    </tr>
+    <tr>
+        <td>5uH|22mOhm Induc</td>
+        <td>0.5559</td>
+        <td>USD</td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C780188.html">LCSC</a>
+        </td>
+        <td>2</td>
+        <td>2</td>
+        <td>1.11</td>
+        <td>USD</td>
+        <td>₹578.96</td>
+        <td>$6.05</td>
+    </tr>
+    <tr>
+        <td>47pF Cap</td>
+        <td>1.3000</td>
+        <td>INR</td>
+        <td>
+            <a
+                href="https://quartzcomponents.com/collections/all/products/kemet-47pf-50v-805-smd-pack-c0g-multilayer-ceramic-capacitor-5-tolerence-pack-of-20"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>20</td>
+        <td>1</td>
+        <td>26.00</td>
+        <td>INR</td>
+        <td>₹604.96</td>
+        <td>$6.32</td>
+    </tr>
+    <tr>
+        <td>100k 1206 resistor</td>
+        <td>0.4500</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a
+                href="https://quartzcomponents.com/products/yageo-100k-ohm-1206-package-1-4w-smd-resistor-1-tolerance-pack-of-20-pieces"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>20</td>
+        <td>2</td>
+        <td>9.00</td>
+        <td>INR</td>
+        <td>₹613.96</td>
+        <td>$6.42</td>
+    </tr>
+    <tr>
+        <td>13.7k 1206 resistor</td>
+        <td>0.0059</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C2903322.html">LCSC</a>
+        </td>
+        <td>50</td>
+        <td>1</td>
+        <td>0.30</td>
+        <td>USD</td>
+        <td>₹642.18</td>
+        <td>$6.71</td>
+    </tr>
+    <tr>
+        <td>47uF 1210 capacitor</td>
+        <td>0.1754</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C77101.html">LCSC</a>
+        </td>
+        <td>5</td>
+        <td>3</td>
+        <td>0.88</td>
+        <td>USD</td>
+        <td>₹726.10</td>
+        <td>$7.59</td>
+    </tr>
+    <tr>
+        <td>10uF 0805 capacitor</td>
+        <td>0.0317</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C5677680.html">LCSC</a>
+        </td>
+        <td>20</td>
+        <td>2</td>
+        <td>0.63</td>
+        <td>USD</td>
+        <td>₹786.76</td>
+        <td>$8.22</td>
+    </tr>
+    <tr>
+        <td>3.3uH inductor</td>
+        <td>0.5559</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C780188.html">LCSC</a>
+        </td>
+        <td>2</td>
+        <td>2</td>
+        <td>1.11</td>
+        <td>USD</td>
+        <td>₹893.14</td>
+        <td>$9.33</td>
+    </tr>
+    <tr>
+        <td>82pF 0805 capacitor</td>
+        <td>0.0315</td>
+        <td>
+            <span>USD</span>
+        </td>
+        <td>
+            <a href="https://www.lcsc.com/product-detail/C597385.html">LCSC</a>
+        </td>
+        <td>5</td>
+        <td>1</td>
+        <td>0.16</td>
+        <td>USD</td>
+        <td>₹908.21</td>
+        <td>$9.49</td>
+    </tr>
+    <tr>
+        <td>22k 1206 resistor</td>
+        <td>0.4500</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a
+                href="https://quartzcomponents.com/products/yageo-22k-ohm-1206-package-1-4w-smd-resistor-1-tolerance-pack-of-20-pieces"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>20</td>
+        <td>1</td>
+        <td>9.00</td>
+        <td>INR</td>
+        <td>₹917.21</td>
+        <td>$9.59</td>
+    </tr>
+    <tr>
+        <td>100 THT resistor</td>
+        <td>0.8000</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a href="https://quartzcomponents.com/products/100-ohm-1-4-watt-resistor-with-1-tolerance-pack-of-10"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>10</td>
+        <td>1</td>
+        <td>8.00</td>
+        <td>INR</td>
+        <td>₹925.21</td>
+        <td>$9.67</td>
+    </tr>
+    <tr>
+        <td>47 THT resistor</td>
+        <td>0.8000</td>
+        <td>
+            <span>INR</span>
+        </td>
+        <td>
+            <a href="https://quartzcomponents.com/products/47-ohm-1-4-watt-resistor-with-1-tolerance-pack-of-10"
+                >QuartzComponents</a
+            >
+        </td>
+        <td>10</td>
+        <td>1</td>
+        <td>8.00</td>
+        <td>INR</td>
+        <td>₹933.21</td>
+        <td>$9.75</td>
+    </tr>
+</table>
 
 [Jump to Contents](#contents)
 
 ### Misc
-<img width="1201" height="155" alt="image" src="https://github.com/user-attachments/assets/5d5092b0-0cae-4c7b-9dfd-90818193bd4f" />
+
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td>Item Name</td>
+            <td>Unit Price</td>
+            <td>Cur.</td>
+            <td>Link</td>
+            <td>Min Qty.</td>
+            <td>Qty.</td>
+            <td>Amount</td>
+            <td>Co1</td>
+            <td>1.. Run. Total</td>
+            <td>2.. Run. Total</td>
+        </tr>
+        <tr>
+            <td>Gloves</td>
+            <td>499.0000</td>
+            <td>
+                <span>INR</span>
+            </td>
+            <td>
+                <a href="https://www.decathlon.in/p/8543424/men-golf-resistance-glove-right-handed-black-and-white"
+                    >Decathlon</a
+                >
+            </td>
+            <td>1</td>
+            <td>1</td>
+            <td>499.00</td>
+            <td>INR</td>
+            <td>₹499.00</td>
+            <td>$5.22</td>
+        </tr>
+        <tr>
+            <td>Female-to-Female Jumper Wires</td>
+            <td>1.0500</td>
+            <td>
+                <span>INR</span>
+            </td>
+            <td>
+                <a
+                    href="https://quartzcomponents.com/collections/all/products/female-to-female-connecting-wires-jumper-wires-set-of-40"
+                    >QuartzComponents</a
+                >
+            </td>
+            <td>40</td>
+            <td>55</td>
+            <td>84.00</td>
+            <td>INR</td>
+            <td>₹583.00</td>
+            <td>$6.09</td>
+        </tr>
+    </tbody>
+</table>
+
 
 [Jump to Contents](#contents)
+
+
+
+
