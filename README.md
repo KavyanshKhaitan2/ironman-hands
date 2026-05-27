@@ -3,11 +3,15 @@ A glove which you can wear and control your computer by moving your hand and usi
 
 ## Contents
 Quickly jump to different parts of the README using this section!
+1. [Why?](#why)
 1. [Fallout Zine](#fallout-zine)
 2. [PCB](#pcb)
 3. [Schematics](#schematics)
 4. [Case](#case)
 5. [Bill of Materials](#bom)
+
+## Why?
+I watched the Iron Man Movie, and it was always fascinating to me how he controlled the screen using just his hands, so I decided to build to make that true and real!
 
 ## Fallout Zine
 [Jump to Contents](#contents)
