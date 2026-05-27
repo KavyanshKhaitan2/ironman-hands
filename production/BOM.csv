@@ -1,0 +1,36 @@
+Item Name,Unit Price,Cur.,Link,Column 11,Min Qty.,Qty.,Amount,Co1,1.. Run. Total,2.. Run. Total
+Mainboard PCB,0.4000,USD,jlcpcb.com,http://jlcpcb.com/,5,1,2.00,USD,₹191.51,$2.00
+Per-finger module PCB,0.4000,USD,jlcpcb.com,http://jlcpcb.com/,5,4,2.00,USD,₹191.51,$2.00
+Power module PCB,1.4000,USD,jlcpcb.com,http://jlcpcb.com/,5,1,7.00,USD,₹861.80,$9.00
+Header pins (90deg),0.2000,INR,QuartzComponents,https://quartzcomponents.com/collections/all/products/male-90-degree-pin-header-connector,40,122,32.00,INR,₹223.51,$2.33
+TYPE-C-31-M-12,0.1719,USD,LCSC,https://www.lcsc.com/product-detail/C165948.html,5,1,0.86,USD,₹305.81,$3.19
+LM1117MP-3.3/TR,0.0931,USD,LCSC,https://www.lcsc.com/product-detail/C498153.html,5,1,0.47,USD,₹350.39,$3.66
+SS56 Diode,0.0471,USD,LCSC,https://www.lcsc.com/product-detail/C65009.html,10,1,0.47,USD,₹395.49,$4.13
+ESP32-S3-WROOM-1,371.0000,INR,ETStore,https://www.etstore.in/products/a2724,1,1,371.00,INR,₹766.49,$8.00
+LSM6DS3TR-C,1.5474,USD,LCSC,https://www.lcsc.com/product-detail/C967633.html,1,9,13.93,USD,"₹2,100.04",$21.93
+TCA9548APWR,0.6418,USD,LCSC,https://www.lcsc.com/product-detail/C130026.html,1,1,0.64,USD,"₹2,161.50",$22.57
+SK6812MINI-E,0.0870,USD,LCSC,https://www.lcsc.com/product-detail/C5149201.html,5,14,1.31,USD,"₹2,286.46",$23.88
+10k 1206 resistor,0.4500,INR,QuartzComponents,https://quartzcomponents.com/collections/all/products/yageo-510k-ohm-1206-package-1-4w-smd-resistor-1-tolerance-pack-of-20-pieces,20,2,9.00,INR,"₹2,295.46",$23.97
+100nF 0805 capacitor,1.5000,INR,QuartzComponents,https://quartzcomponents.com/collections/all/products/100nf-0-1uf-104-50v-1206-smd-capacitor-pack-of-10-pieces,10,2,15.00,INR,"₹2,310.46",$24.13
+10k 1206 resistor,0.4500,INR,QuartzComponents,https://quartzcomponents.com/collections/all/products/yageo-510k-ohm-1206-package-1-4w-smd-resistor-1-tolerance-pack-of-20-pieces,40,16,18.00,INR,"₹2,328.46",$24.32
+100nF 0805 capacitor,1.5000,INR,QuartzComponents,https://quartzcomponents.com/collections/all/products/100nf-0-1uf-104-50v-1206-smd-capacitor-pack-of-10-pieces,30,16,45.00,INR,"₹2,373.46",$24.79
+DC Barrel Jack,6.0000,INR,QuartzComponents,https://quartzcomponents.com/products/female-dc-power-supply-connector-barrel-dc-jack,1,1,6.00,INR,"₹2,379.46",$24.85
+DC Power Adapter,132.0000,INR,QuartzComponents,https://quartzcomponents.com/products/12v-1a-dc-power-adapter,1,1,132.00,INR,"₹2,511.46",$26.23
+SPST Power Switch,6.0000,INR,ETStore,https://www.etstore.in/products/b8017,2,1,12.00,INR,"₹2,523.46",$26.35
+TP5100 module,57.0000,INR,QuartzComponents,https://quartzcomponents.com/collections/all/products/tp5100-4-2v-8-4v-li-ion-battery-charging-module,1,1,57.00,INR,"₹2,580.46",$26.95
+TPS54302DDCR,0.3140,USD,LCSC,https://www.lcsc.com/product-detail/C311983.html,5,2,1.57,USD,"₹2,730.80",$28.52
+22uF|3.55mOhm Cap,0.0904,USD,LCSC,https://www.lcsc.com/product-detail/C5677683.html,5,1,0.45,USD,"₹2,774.08",$28.97
+100nF|280mOhm Cap,0.0067,USD,LCSC,https://www.lcsc.com/product-detail/C519980.html,100,2,0.67,USD,"₹2,838.23",$29.64
+5uH|22mOhm Induc,0.5559,USD,LCSC,https://www.lcsc.com/product-detail/C780188.html,2,2,1.11,USD,"₹2,944.70",$30.75
+47pF Cap,1.3000,INR,QuartzComponents,https://quartzcomponents.com/collections/all/products/kemet-47pf-50v-805-smd-pack-c0g-multilayer-ceramic-capacitor-5-tolerence-pack-of-20,20,1,26.00,INR,"₹2,970.70",$31.02
+100k 1206 resistor,0.4500,INR,QuartzComponents,https://quartzcomponents.com/products/yageo-100k-ohm-1206-package-1-4w-smd-resistor-1-tolerance-pack-of-20-pieces,20,2,9.00,INR,"₹2,979.70",$31.12
+13.7k 1206 resistor,0.0059,USD,LCSC,https://www.lcsc.com/product-detail/C2903322.html,50,1,0.30,USD,"₹3,007.94",$31.41
+47uF 1210 capacitor,0.1754,USD,LCSC,https://www.lcsc.com/product-detail/C77101.html,5,3,0.88,USD,"₹3,091.92",$32.29
+10uF 0805 capacitor,0.0317,USD,LCSC,https://www.lcsc.com/product-detail/C5677680.html,20,2,0.63,USD,"₹3,152.63",$32.92
+3.3uH inductor,0.5559,USD,LCSC,https://www.lcsc.com/product-detail/C780188.html,2,2,1.11,USD,"₹3,259.09",$34.04
+82pF 0805 capacitor,0.0315,USD,LCSC,https://www.lcsc.com/product-detail/C597385.html,5,1,0.16,USD,"₹3,274.17",$34.19
+22k 1206 resistor,0.4500,INR,QuartzComponents,https://quartzcomponents.com/products/yageo-22k-ohm-1206-package-1-4w-smd-resistor-1-tolerance-pack-of-20-pieces,20,1,9.00,INR,"₹3,283.17",$34.29
+100 THT resistor,0.8000,INR,QuartzComponents,https://quartzcomponents.com/products/100-ohm-1-4-watt-resistor-with-1-tolerance-pack-of-10,10,1,8.00,INR,"₹3,291.17",$34.37
+47 THT resistor,0.8000,INR,QuartzComponents,https://quartzcomponents.com/products/47-ohm-1-4-watt-resistor-with-1-tolerance-pack-of-10,10,1,8.00,INR,"₹3,299.17",$34.45
+Gloves,499.0000,INR,Decathlon,https://www.decathlon.in/p/8543424/men-golf-resistance-glove-right-handed-black-and-white,1,1,499.00,INR,"₹3,798.17",$39.67
+Female-to-Female Jumper Wires,1.0500,INR,QuartzComponents,https://quartzcomponents.com/collections/all/products/female-to-female-connecting-wires-jumper-wires-set-of-40,40,55,84.00,INR,"₹3,882.17",$40.54
