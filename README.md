@@ -107,6 +107,7 @@ Quickly jump to different parts of the README using this section!
 (Bill of Materials)
 
 [ [View in Google Sheets](https://docs.google.com/spreadsheets/d/10JJsmnbrsMaL60rsXx-CBmIgtjZ1htyX9JACOBp3yb4/edit?usp=sharing) ]
+[ [Open CSV in GitHub](https://github.com/KavyanshKhaitan2/ironman-hands/blob/main/production/BOM.csv) ]
 
 - [Cumulative](#cumulative)
 - [Mainboard](#mainboard)
