@@ -1,6 +1,8 @@
 # Ironman-Hands!
 A glove which you can wear and control your computer by moving your hand and using gestures!! (It has a lot of sensors to do this!)
 
+I will be stitching all the parts together, and then adding some more cloth on top so no exposed wires or PCBs are visible!
+
 ## Contents
 Quickly jump to different parts of the README using this section!
 1. [Why?](#why)
