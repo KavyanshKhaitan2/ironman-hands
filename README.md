@@ -13,7 +13,7 @@ Quickly jump to different parts of the README using this section!
 3. [Schematics](#schematics)
 4. [Case](#case)
 5. [Bill of Materials](#bom)
-
+6. [Assembly](#assembly)
 ## Why?
 I watched the Iron Man Movie, and it was always fascinating to me how he controlled the screen using just his hands, so I decided to build to make that true and real!
 
@@ -896,3 +896,15 @@ I watched the Iron Man Movie, and it was always fascinating to me how he control
 
 
 
+# Assembly
+1. Prep your PCB and solder all the components
+2. take the finger modules and then stitch it to the gloves
+3. take the mainboard case and stitch it to the gloves
+4. put the mainboard inside the case
+5. connect em
+6. stitch some extra fabric on top of the finger modules
+7. connect velcro straps to the power module
+8. place power module inside the case
+9. connect em again
+10. charge your batteries
+11. done!!
