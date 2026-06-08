@@ -39,7 +39,7 @@ I watched the Iron Man Movie, and it was always fascinating to me how he control
 - [Power module](#power-module)
 
 ### Mainboard
-<img width="1263" height="881" alt="image" src="https://github.com/user-attachments/assets/62ca3e6c-585c-40f1-9a5a-89ea4684d505" />
+<img width="1366" height="841" alt="image" src="https://github.com/user-attachments/assets/7d80c0b6-f167-45e2-8ede-61975cb3ac39" />
 
 - [ [Open in KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FKavyanshKhaitan2%2Fironman-hands%2Fblob%2Fmain%2Fpcb%2Fmainboard.kicad_pcb) ]
 
@@ -898,13 +898,23 @@ I watched the Iron Man Movie, and it was always fascinating to me how he control
 
 # Assembly
 1. Prep your PCB and solder all the components
-2. take the finger modules and then stitch it to the gloves
-3. take the mainboard case and stitch it to the gloves
-4. put the mainboard inside the case
-5. connect em
-6. stitch some extra fabric on top of the finger modules
-7. connect velcro straps to the power module
-8. place power module inside the case
-9. connect em again
-10. charge your batteries
-11. done!!
+2. Take the finger modules and then stitch it to the gloves (the numbered pins are meant to be used as mounting holes)
+<img width="975" height="623" alt="image" src="https://github.com/user-attachments/assets/4ec3b577-d04b-4fc5-9cfa-1756ebd3cbd7" />
+
+3. Take the mainboard case and stitch it to the gloves (these holes are provided so you can easily stitch it like buttons on a shirt)
+<img width="766" height="602" alt="image" src="https://github.com/user-attachments/assets/b5d08d84-060f-4e3b-8983-568a47854ae3" />
+
+4. Put the mainboard inside the case
+5. Connect them using jumper wires
+6. Stitch some extra fabric on top of the finger modules
+7. Stitch velcro straps to the power module
+<img width="477" height="508" alt="image" src="https://github.com/user-attachments/assets/ab23a82f-7db9-485e-afc5-e693441fec02" />
+
+8. Place power module PCB inside the case
+9. Connect em again
+10. Charge your batteries
+
+## Wiring diagram
+<img width="475" height="936" alt="image" src="https://github.com/user-attachments/assets/49322e33-7c6d-47f5-88d7-7459df08d856" />
+<img width="948" height="852" alt="image" src="https://github.com/user-attachments/assets/1f931931-4721-4892-9e94-ac460309fe50" />
+
