@@ -20,7 +20,7 @@ I watched the Iron Man Movie, and it was always fascinating to me how he control
 ## Fallout Zine
 [Jump to Contents](#contents)
 
-<image height="400" src="https://github.com/KavyanshKhaitan2/ironman-hands/blob/main/zine/Zine_JPEG.jpg?raw=true">
+<image height="400" src="https://github.com/KavyanshKhaitan2/ironman-hands/blob/main/zine/Zine_PNG.png?raw=true">
 
 - [ [Download JPEG file](https://github.com/KavyanshKhaitan2/ironman-hands/blob/main/zine/Zine_JPEG.jpg) ]
 - [ [Download PNG file](https://github.com/KavyanshKhaitan2/ironman-hands/blob/main/zine/Zine_PNG.png) ]
