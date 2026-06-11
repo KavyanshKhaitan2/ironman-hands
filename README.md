@@ -105,7 +105,8 @@ I watched the Iron Man Movie, and it was always fascinating to me how he control
 
 ## Case
 ### Final assembly:
-<img width="1412" height="773" alt="image" src="https://github.com/user-attachments/assets/134881ac-e3a5-4fd0-a5ee-ef07e5128f78" />
+<img width="1103" height="747" alt="image" src="https://github.com/user-attachments/assets/c6f3b45d-5bb9-41c1-848b-68dfc36deb91" />
+
 
 [ [View in OnShape](https://cad.onshape.com/documents/6b24d13ccce8b20dadd52a3a/w/196c8f17dbb1cb6e287c322c/e/852bd395ec118001130bafdd?renderMode=0&uiState=6a15cbbf1f6b6ce009f7e8d0) ]
 
